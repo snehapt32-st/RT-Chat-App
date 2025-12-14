@@ -24,3 +24,7 @@ The chat application allows users to type messages into an input field and send 
 During the development process, I faced challenges related to handling real-time data flow, managing multiple client connections, and ensuring message synchronization. These challenges were addressed by implementing proper WebSocket event handling and structured JavaScript logic. Through this task, I gained valuable experience in real-time communication, event-driven programming, client-server interaction, and dynamic DOM manipulation.
 
 Overall, the Real-Time Chat Application was a valuable internship task that enhanced my understanding of modern web communication technologies. It provided practical exposure to real-world web development concepts and demonstrated my ability to design and develop a responsive, real-time web application.
+
+#OUTPUT
+
+<img width="1357" height="689" alt="Image" src="https://github.com/user-attachments/assets/1a99c8bb-a27e-4aa1-8a09-ae33fe257312" />
